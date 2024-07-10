@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Neha Agrawal</h1>
-<h3 align="center">A passionate Full-Stack Developer with experience in building scalable web-apps using HTML, CSS, JavasCript, React, Node, Next, TypeScript, Tailwind CSS, Bootstrap, Vercal</h3>
+<h3 align="center">A passionate Full-Stack Developer with experience in building scalable web apps using HTML, CSS, JavaScript, React, Node, Next, Tailwind CSS, Bootstrap, Vercel</h3>
 
-- 👨‍💻 Portfolio Link [https://neha-portfolio-mu.vercel.app/](https://neha-portfolio-mu.vercel.app/)
+- 👨‍💻 Portfolio [Link](https://neha-portfolio-mu.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Node, HTML, CSS**
 
 - 📫 Reach me at **nehaagrawal2995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AOjinn7RKIRvYCdG_zOQ69KYjOGmcpz1/view?usp=sharing](https://drive.google.com/file/d/1AOjinn7RKIRvYCdG_zOQ69KYjOGmcpz1/view?usp=sharing)
+- 📄 Know about my experiences: [Link](https://drive.google.com/file/d/1AOjinn7RKIRvYCdG_zOQ69KYjOGmcpz1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
